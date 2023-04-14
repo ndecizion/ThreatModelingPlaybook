@@ -92,7 +92,7 @@ A cross platform, free diagramming tool. They offer a cloud tool or an applicati
 
 DrawIO has a tagging feature, where individual components can be assocaited with an arbitrary number of tags. The example in the DrawIO folder includes a fully tagged data flow diagram. (View -> Tags) If you hide Processors, then start hiding business processes (A01-A07) you'll see components drop away, leaving only the system components involved in the visible business processes.
 
-https://www.diagrams.net/
+https://www.diagrams.net/  
 https://github.com/michenriksen/drawio-threatmodeling
 
 ## Microsoft Threat Modeling Tool
@@ -100,18 +100,18 @@ This is a highly customizable tool for building data flow diagrams & walking thr
 
 Opinion - This tool is really powerful and has alot of features, but I found myself getting lost in the details to get the automated STRIDE issues to make sense. Significant time has to be sunk in each model in order to get to rich, complete results. This trade-off drove me to Draw.IO and simpler diagrams, with manual analysis.
 
-https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
+https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool  
 https://aka.ms/threatmodelingtool 
 
 
 ## Notes & Links
 Further Reading/Listening:
 
-https://raw.githubusercontent.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs/master/18x26.Tutamen%20HOWTO-Rapid%20Threat%20Model%20Prototyping.pdf  
-https://github.com/OWASP/www-project-threat-modeling-playbook/blob/master/index.md  
-https://github.com/hysnsec/awesome-threat-modelling#tutorials-and-blogs  
-https://soundcloud.com/user-212326930/aug-2018-devsecops-rapid-threat-model-prototyping-talk-by-geoff-hill  
-https://www.schneier.com/academic/archives/1999/12/attack_trees.html
+- https://raw.githubusercontent.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs/master/18x26.Tutamen%20HOWTO-Rapid%20Threat%20Model%20Prototyping.pdf  
+- https://github.com/OWASP/www-project-threat-modeling-playbook/blob/master/index.md  
+- https://github.com/hysnsec/awesome-threat-modelling#tutorials-and-blogs  
+- https://soundcloud.com/user-212326930/aug-2018-devsecops-rapid-threat-model-prototyping-talk-by-geoff-hill  
+- https://www.schneier.com/academic/archives/1999/12/attack_trees.html
 
 Remember kids: the only difference between screwing around and science is writing it down.
 Don't screw around in security.  
