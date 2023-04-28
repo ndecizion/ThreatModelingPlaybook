@@ -107,6 +107,7 @@ https://aka.ms/threatmodelingtool
 ## Notes & Links
 Further Reading/Listening:
 
+- https://www.threatmodelingmanifesto.org/
 - https://raw.githubusercontent.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs/master/18x26.Tutamen%20HOWTO-Rapid%20Threat%20Model%20Prototyping.pdf  
 - https://github.com/OWASP/www-project-threat-modeling-playbook/blob/master/index.md  
 - https://github.com/hysnsec/awesome-threat-modelling#tutorials-and-blogs  
